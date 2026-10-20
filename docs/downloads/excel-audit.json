@@ -1,0 +1,293 @@
+{
+  "status": "passed",
+  "method": "Actual XLSX compared directly to source CSVs. No authoring intermediate or builder imported.",
+  "all_passed": true,
+  "checks": [
+    {
+      "check": "basic_key_uniqueness",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "basic_exact_key_coverage",
+      "passed": true,
+      "details": {
+        "missing": [],
+        "extra": []
+      }
+    },
+    {
+      "check": "basic_all_mapped_fields_equal",
+      "passed": true,
+      "details": {
+        "mismatches": [],
+        "mapped_columns": 23,
+        "rows": 889
+      }
+    },
+    {
+      "check": "889_person_ids_and_names_exact",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "no_native_place_fabrication",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "person_confirmed_input_excluded_counts_exact",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "confirmed_experiences_key_uniqueness",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "confirmed_experiences_exact_key_coverage",
+      "passed": true,
+      "details": {
+        "missing": [],
+        "extra": []
+      }
+    },
+    {
+      "check": "confirmed_experiences_all_mapped_fields_equal",
+      "passed": true,
+      "details": {
+        "mismatches": [],
+        "mapped_columns": 31,
+        "rows": 12826
+      }
+    },
+    {
+      "check": "experience_names_match_stable_ids",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "network_eligibility_matches_frozen_ids",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "confirmed_and_excluded_cover_all_17715_frozen_scopes",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "empty_supersession_json_array_is_not_a_superseded_record",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "no_unresolved_scope_admitted",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "confirmed_education_and_job_counts",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "missing_experiences_exact_four_people",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "839_network_covered_50_insufficient_46_point_only",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "excluded_archive_key_uniqueness",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "excluded_archive_exact_key_coverage",
+      "passed": true,
+      "details": {
+        "missing": [],
+        "extra": []
+      }
+    },
+    {
+      "check": "excluded_archive_all_mapped_fields_equal",
+      "passed": true,
+      "details": {
+        "mismatches": [],
+        "mapped_columns": 21,
+        "rows": 4889
+      }
+    },
+    {
+      "check": "all_conflict_candidates_and_original_quotes_preserved",
+      "passed": true,
+      "details": {
+        "rows": 1216
+      }
+    },
+    {
+      "check": "person_congress_key_uniqueness",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "person_congress_exact_key_coverage",
+      "passed": true,
+      "details": {
+        "missing": [],
+        "extra": []
+      }
+    },
+    {
+      "check": "person_congress_all_mapped_fields_equal",
+      "passed": true,
+      "details": {
+        "mismatches": [],
+        "mapped_columns": 11,
+        "rows": 1542
+      }
+    },
+    {
+      "check": "all_1542_election_age_and_job_degree_candidates_preserved",
+      "passed": true,
+      "details": []
+    },
+    {
+      "check": "cc_edges_key_uniqueness",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "cc_edges_exact_key_coverage",
+      "passed": true,
+      "details": {
+        "missing": [],
+        "extra": []
+      }
+    },
+    {
+      "check": "cc_edges_all_mapped_fields_equal",
+      "passed": true,
+      "details": {
+        "mismatches": [],
+        "mapped_columns": 21,
+        "rows": 4499
+      }
+    },
+    {
+      "check": "edge_evidence_key_uniqueness",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "edge_evidence_exact_key_coverage",
+      "passed": true,
+      "details": {
+        "missing": [],
+        "extra": []
+      }
+    },
+    {
+      "check": "edge_evidence_all_mapped_fields_equal",
+      "passed": true,
+      "details": {
+        "mismatches": [],
+        "mapped_columns": 21,
+        "rows": 6230
+      }
+    },
+    {
+      "check": "every_edge_evidence_endpoint_is_eligible_and_not_excluded",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "strict_edges_have_zero_candidates_and_correct_direction",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "all_1542_metrics_all_64_columns_match_raw",
+      "passed": true,
+      "details": {
+        "mismatches": []
+      }
+    },
+    {
+      "check": "all_11073_basic_field_observations_and_quotes_preserved",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "preferred_basic_candidate_flag_is_not_confirmation_flag",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "all_890_additional_experience_proofs_preserved",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "isolated_and_archive_only_sources_zero_confirmed_contribution",
+      "passed": true,
+      "details": {
+        "quarantined_sources": 866,
+        "metadata_only_added_sources": 4,
+        "violations": []
+      }
+    },
+    {
+      "check": "metadata_only_four_sources_not_restored_as_eligible",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "main_claim_and_relation_sources_all_resolve",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "candidate_basic_and_election_fields_explicitly_disclosed",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "raw_and_final_workbook_hashes_unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "16_underlying_csv_inputs_still_unchanged",
+      "passed": true,
+      "details": {
+        "changed_files": []
+      }
+    }
+  ],
+  "field_values_compared_directly": 880185,
+  "findings": [],
+  "counts": {
+    "persons": 889,
+    "person_congress": 1542,
+    "confirmed_scopes": 12826,
+    "excluded_scopes": 4889,
+    "all_frozen_scopes": 17715,
+    "network_inputs": 9095,
+    "cc_confirmed_edges": 4499
+  },
+  "limits": [
+    "Completeness relative to the frozen research data, not all real-world career events.",
+    "Basic profile values and historical election age/job/degree fields retain candidate/report status.",
+    "Not every internal raw metadata field was requested/exported; all primary research records and candidate rows in scope were checked."
+  ],
+  "workbook_sha256": "e09ff616298d04e16f244408fa8aaf6909be1d1d9b076b2de7fdc05d6de6ad16",
+  "workbook_modified": false,
+  "new_source_semantic_review": false
+}

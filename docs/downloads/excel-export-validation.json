@@ -1,0 +1,253 @@
+{
+  "status": "complete",
+  "checks": {
+    "zip_crc": true,
+    "all_cells_equal_prepared_source_mapping": true,
+    "all_required_sheets_and_rows": true,
+    "freeze_header_and_identifiers": true,
+    "filter_tables_all_sheets": true,
+    "no_excel_error_or_formula_in_data": true,
+    "input_hashes_unchanged": true,
+    "fixed_889_roster_1542_person_congress": true,
+    "confirmed_and_excluded_scopes_disjoint": true,
+    "9095_eligible_inputs_839_people": true,
+    "source_references_including_four_archive_only_sources_complete": true,
+    "4499_cc_confirmed_edges_only": true,
+    "coarse_dates_preserved_as_text_missing_not_zero": true
+  },
+  "sheets": [
+    {
+      "name": "基本信息",
+      "rows": 889,
+      "columns": 30,
+      "cells_compared": 26700,
+      "freeze_panes": {
+        "xSplit": "2",
+        "ySplit": "1",
+        "topLeftCell": "C2",
+        "activePane": "bottomRight",
+        "state": "frozen"
+      },
+      "filter_table": true
+    },
+    {
+      "name": "全部经历",
+      "rows": 12826,
+      "columns": 37,
+      "cells_compared": 474599,
+      "freeze_panes": {
+        "xSplit": "2",
+        "ySplit": "1",
+        "topLeftCell": "C2",
+        "activePane": "bottomRight",
+        "state": "frozen"
+      },
+      "filter_table": true
+    },
+    {
+      "name": "缺失经历的人员信息",
+      "rows": 4,
+      "columns": 11,
+      "cells_compared": 55,
+      "freeze_panes": {
+        "xSplit": "2",
+        "ySplit": "1",
+        "topLeftCell": "C2",
+        "activePane": "bottomRight",
+        "state": "frozen"
+      },
+      "filter_table": true
+    },
+    {
+      "name": "人物届次",
+      "rows": 1542,
+      "columns": 23,
+      "cells_compared": 35489,
+      "freeze_panes": {
+        "xSplit": "2",
+        "ySplit": "1",
+        "topLeftCell": "C2",
+        "activePane": "bottomRight",
+        "state": "frozen"
+      },
+      "filter_table": true
+    },
+    {
+      "name": "网络关系",
+      "rows": 4499,
+      "columns": 21,
+      "cells_compared": 94500,
+      "freeze_panes": {
+        "xSplit": "2",
+        "ySplit": "1",
+        "topLeftCell": "C2",
+        "activePane": "bottomRight",
+        "state": "frozen"
+      },
+      "filter_table": true
+    },
+    {
+      "name": "网络指标",
+      "rows": 1542,
+      "columns": 64,
+      "cells_compared": 98752,
+      "freeze_panes": {
+        "xSplit": "2",
+        "ySplit": "1",
+        "topLeftCell": "C2",
+        "activePane": "bottomRight",
+        "state": "frozen"
+      },
+      "filter_table": true
+    },
+    {
+      "name": "关系证据",
+      "rows": 6230,
+      "columns": 21,
+      "cells_compared": 130851,
+      "freeze_panes": {
+        "xSplit": "2",
+        "ySplit": "1",
+        "topLeftCell": "C2",
+        "activePane": "bottomRight",
+        "state": "frozen"
+      },
+      "filter_table": true
+    },
+    {
+      "name": "经历补充依据",
+      "rows": 890,
+      "columns": 9,
+      "cells_compared": 8019,
+      "freeze_panes": {
+        "xSplit": "2",
+        "ySplit": "1",
+        "topLeftCell": "C2",
+        "activePane": "bottomRight",
+        "state": "frozen"
+      },
+      "filter_table": true
+    },
+    {
+      "name": "未决及排除经历",
+      "rows": 4889,
+      "columns": 24,
+      "cells_compared": 117360,
+      "freeze_panes": {
+        "xSplit": "2",
+        "ySplit": "1",
+        "topLeftCell": "C2",
+        "activePane": "bottomRight",
+        "state": "frozen"
+      },
+      "filter_table": true
+    },
+    {
+      "name": "冲突候选",
+      "rows": 1216,
+      "columns": 13,
+      "cells_compared": 15821,
+      "freeze_panes": {
+        "xSplit": "2",
+        "ySplit": "1",
+        "topLeftCell": "C2",
+        "activePane": "bottomRight",
+        "state": "frozen"
+      },
+      "filter_table": true
+    },
+    {
+      "name": "基本字段候选",
+      "rows": 11073,
+      "columns": 14,
+      "cells_compared": 155036,
+      "freeze_panes": {
+        "xSplit": "2",
+        "ySplit": "1",
+        "topLeftCell": "C2",
+        "activePane": "bottomRight",
+        "state": "frozen"
+      },
+      "filter_table": true
+    },
+    {
+      "name": "来源索引",
+      "rows": 4337,
+      "columns": 13,
+      "cells_compared": 56394,
+      "freeze_panes": {
+        "xSplit": "2",
+        "ySplit": "1",
+        "topLeftCell": "C2",
+        "activePane": "bottomRight",
+        "state": "frozen"
+      },
+      "filter_table": true
+    },
+    {
+      "name": "职务机构关键词",
+      "rows": 3682,
+      "columns": 5,
+      "cells_compared": 18415,
+      "freeze_panes": {
+        "xSplit": "2",
+        "ySplit": "1",
+        "topLeftCell": "C2",
+        "activePane": "bottomRight",
+        "state": "frozen"
+      },
+      "filter_table": true
+    },
+    {
+      "name": "学校关键词",
+      "rows": 282,
+      "columns": 5,
+      "cells_compared": 1415,
+      "freeze_panes": {
+        "xSplit": "2",
+        "ySplit": "1",
+        "topLeftCell": "C2",
+        "activePane": "bottomRight",
+        "state": "frozen"
+      },
+      "filter_table": true
+    },
+    {
+      "name": "字段说明",
+      "rows": 290,
+      "columns": 5,
+      "cells_compared": 1455,
+      "freeze_panes": {
+        "xSplit": "2",
+        "ySplit": "1",
+        "topLeftCell": "C2",
+        "activePane": "bottomRight",
+        "state": "frozen"
+      },
+      "filter_table": true
+    },
+    {
+      "name": "使用说明",
+      "rows": 18,
+      "columns": 3,
+      "cells_compared": 57,
+      "freeze_panes": {
+        "xSplit": "2",
+        "ySplit": "1",
+        "topLeftCell": "C2",
+        "activePane": "bottomRight",
+        "state": "frozen"
+      },
+      "filter_table": true
+    }
+  ],
+  "errors": [],
+  "total_cells_compared": 1234918,
+  "original_inputs_checked": 16,
+  "output_file": "中央成员官员数据库_CPED结构_20261020.xlsx",
+  "output_bytes": 10217560,
+  "sha256": "e09ff616298d04e16f244408fa8aaf6909be1d1d9b076b2de7fdc05d6de6ad16",
+  "new_semantic_source_review": false,
+  "visual_verification": "passed_basic_experiences_and_guide",
+  "all_passed": true
+}

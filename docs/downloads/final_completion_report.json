@@ -1,0 +1,31 @@
+{
+  "final_registered_snapshot": "f20464c0f233f00a211eda1d60084edc621668abbfa493624612f35a4f3191f0",
+  "normalized_episode_count": 17715,
+  "confirmed_fact_count": 12826,
+  "excluded_final_fact_count": 4889,
+  "network_input_count": 9095,
+  "excluded_network_input_count": 8620,
+  "exclusion_reason_counts": {
+    "excluded_program_extraction_not_semantically_confirmed": 3865,
+    "excluded_non_temporal_identity_institution_or_qualification_unresolved": 118,
+    "excluded_superseded_scope_original_preserved": 46,
+    "excluded_explicit_terminal_unresolved_disposition": 28,
+    "excluded_unresolved_values_even_if_relation_invariant": 832
+  },
+  "prior_search_time_unknown_not_fabricated": true,
+  "new_searches_during_terminal_selection": 0,
+  "selection_is_not_new_semantic_source_review": true,
+  "existing_manual_decisions_reused": true,
+  "candidate_variants_do_not_gain_admission": true,
+  "raw_evidence_never_deleted": true,
+  "final_limited_scope_not_full_biographies": true,
+  "research_expansion_closed": true,
+  "network_episode_ids_file": "final_input_snapshot.json",
+  "cc_confirmed_edges": 4499,
+  "cc_candidate_edges": 0,
+  "protected_inputs_unchanged": 17,
+  "persons_with_network_input": 839,
+  "research_stopped_after_delivery": true,
+  "full_889_biographies_complete": false,
+  "regression_ready": false
+}

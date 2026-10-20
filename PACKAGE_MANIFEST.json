@@ -73,8 +73,8 @@
     },
     {
       "path": "docs/downloads/README.md",
-      "bytes": 422,
-      "sha256": "b0215be4e290863e71d6307fbe39dfe1f4d5a66e2787b43c34ba86be44354b9a"
+      "bytes": 413,
+      "sha256": "60cf84625a17244a7cbb0c374b4628f40a7c4fa8a61fe063b8d630389c56a61a"
     },
     {
       "path": "docs/figures/congress_18.svg",
@@ -93,8 +93,8 @@
     },
     {
       "path": "docs/figures/README.md",
-      "bytes": 209,
-      "sha256": "800d1de9abaea14e9cddc54fcb5e41fe5bf5ba34d67c56db28b1abdd5a5cd997"
+      "bytes": 204,
+      "sha256": "54acc0298820ec38fdae3d0f548467912f3b289d5e25b2c9402db91944b825d2"
     },
     {
       "path": "docs/index.html",
@@ -108,8 +108,8 @@
     },
     {
       "path": "docs/README.md",
-      "bytes": 239,
-      "sha256": "b309d01bfe9f33290dee3bac4f271ae8e31dc06d1c9b367829897bc529860425"
+      "bytes": 233,
+      "sha256": "eb3c9fda5e4699abe2166fd88baabfbe042617d8f2750420de53af0c9e118564"
     },
     {
       "path": "PUBLICATION_VALIDATION.json",

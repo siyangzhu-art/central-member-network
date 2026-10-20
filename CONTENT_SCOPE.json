@@ -1,0 +1,83 @@
+{
+  "title": "第15—20届中央成员三层关系网络",
+  "presentation_date": "2026-10-20",
+  "source_version": "final_confirmed_20261016_181913",
+  "source_index_sha256": "206662a136e5fa8f5b4d263193797534bf83b7ad978503ce869b7c80a649b769",
+  "status": "repository_package",
+  "research_reopened": false,
+  "published_scope": "CC_confirmed_network_plus_reviewed_excel_with_separate_candidate_archives",
+  "candidate_edges": 0,
+  "regression_ready": false,
+  "not_included": [
+    "CPED",
+    "cached_full_webpages",
+    "original_regression_inputs",
+    "internal_logs"
+  ],
+  "csv_rows": {
+    "confirmed_edges": 4499,
+    "nodes": 1542,
+    "metrics_cc": 1542,
+    "coverage": 889,
+    "layer_summary": 324,
+    "variable_dictionary": 64,
+    "relation_evidence": 6230
+  },
+  "congresses": [
+    {
+      "congress": 15,
+      "nodes": 268,
+      "confirmed_edges": 466,
+      "relation_cutoff": "1997-09-17",
+      "identity_date": "1997-09-19"
+    },
+    {
+      "congress": 16,
+      "nodes": 272,
+      "confirmed_edges": 600,
+      "relation_cutoff": "2002-11-13",
+      "identity_date": "2002-11-15"
+    },
+    {
+      "congress": 17,
+      "nodes": 295,
+      "confirmed_edges": 862,
+      "relation_cutoff": "2007-10-20",
+      "identity_date": "2007-10-22"
+    },
+    {
+      "congress": 18,
+      "nodes": 302,
+      "confirmed_edges": 1172,
+      "relation_cutoff": "2012-11-13",
+      "identity_date": "2012-11-15"
+    },
+    {
+      "congress": 19,
+      "nodes": 296,
+      "confirmed_edges": 1172,
+      "relation_cutoff": "2017-10-23",
+      "identity_date": "2017-10-25"
+    },
+    {
+      "congress": 20,
+      "nodes": 109,
+      "confirmed_edges": 227,
+      "relation_cutoff": "2022-10-21",
+      "identity_date": "2022-10-23"
+    }
+  ],
+  "excel": {
+    "file": "docs/downloads/officer-database.xlsx",
+    "sha256": "e09ff616298d04e16f244408fa8aaf6909be1d1d9b076b2de7fdc05d6de6ad16",
+    "bytes": 10217560,
+    "sheets": 16,
+    "scope": "889 existing central members only; CPED structure reference only",
+    "separate_candidate_and_exclusion_sheets": true,
+    "independent_checks": 43,
+    "source_fields_directly_compared": 880185,
+    "all_passed": true
+  },
+  "repository_url": "https://github.com/siyangzhu-art/central-member-network",
+  "pages_url": "https://siyangzhu-art.github.io/central-member-network/"
+}

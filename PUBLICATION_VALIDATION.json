@@ -1,0 +1,141 @@
+{
+  "date": "2026-10-20",
+  "all_passed": true,
+  "checks": {
+    "six_networks_1542_nodes_4499_confirmed_edges_match_frozen": true,
+    "node_identity_dates_and_relation_cutoffs_unchanged": true,
+    "quotes_source_urls_and_edge_evidence_unchanged": true,
+    "unconfirmed_facts_not_added": true,
+    "cc_only_export_and_evidence_references_valid": true,
+    "all_static_html_local_links_exist": true,
+    "no_machine_paths_localhost_credentials_or_dead_cache_controls": true,
+    "download_archive_crc": true,
+    "original_source_artifacts_hashes_unchanged": true
+  },
+  "checked_original_source_files": 113,
+  "csv_rows": {
+    "confirmed_edges": 4499,
+    "nodes": 1542,
+    "metrics_cc": 1542,
+    "coverage": 889,
+    "layer_summary": 324,
+    "variable_dictionary": 64,
+    "relation_evidence": 6230
+  },
+  "new_source_semantic_checks": 0,
+  "browser_validation": "passed",
+  "browser_checks": {
+    "six_views": [
+      {
+        "term": "15",
+        "counts": "268 人 · 466 条已确认边 · 0 条候选\n关系截至 1997-09-17\n届初身份截至 1997-09-19",
+        "nodes": 268,
+        "edges": 466
+      },
+      {
+        "term": "16",
+        "counts": "272 人 · 600 条已确认边 · 0 条候选\n关系截至 2002-11-13\n届初身份截至 2002-11-15",
+        "nodes": 272,
+        "edges": 600
+      },
+      {
+        "term": "17",
+        "counts": "295 人 · 862 条已确认边 · 0 条候选\n关系截至 2007-10-20\n届初身份截至 2007-10-22",
+        "nodes": 295,
+        "edges": 862
+      },
+      {
+        "term": "18",
+        "counts": "302 人 · 1172 条已确认边 · 0 条候选\n关系截至 2012-11-13\n届初身份截至 2012-11-15",
+        "nodes": 302,
+        "edges": 1172
+      },
+      {
+        "term": "19",
+        "counts": "296 人 · 1172 条已确认边 · 0 条候选\n关系截至 2017-10-23\n届初身份截至 2017-10-25",
+        "nodes": 296,
+        "edges": 1172
+      },
+      {
+        "term": "20",
+        "counts": "109 人 · 227 条已确认边 · 0 条候选\n关系截至 2022-10-21\n届初身份截至 2022-10-23",
+        "nodes": 109,
+        "edges": 227
+      }
+    ],
+    "search_name": "习近平",
+    "highlighted_nodes": 1,
+    "evidence_panel": "杨晖—赵克石",
+    "evidence_external_links": [
+      "来源A网页",
+      "来源B网页"
+    ],
+    "evidence_panel_quotes_displayed": true,
+    "dead_local_cache_links_removed": true
+  },
+  "http_checks": [
+    {
+      "path": "index.html",
+      "status": 200,
+      "matches_file": true
+    },
+    {
+      "path": "network.html",
+      "status": 200,
+      "matches_file": true
+    },
+    {
+      "path": "downloads/network-data.zip",
+      "status": 200,
+      "matches_file": true
+    },
+    {
+      "path": "downloads/project-description.md",
+      "status": 200,
+      "matches_file": true
+    },
+    {
+      "path": "figures/congress_18.svg",
+      "status": 200,
+      "matches_file": true
+    }
+  ],
+  "preview_jpeg_dimensions": [
+    1265,
+    712
+  ],
+  "update": "reviewed_officer_excel_added_to_existing_local_bundle",
+  "excel_addition": {
+    "same_reviewed_xlsx_sha256": true,
+    "review_json_preserved": true,
+    "network_html_and_data_archive_unchanged": true,
+    "all_static_links_exist": true,
+    "xlsx_zip_crc_passed": true,
+    "candidate_archive_distinction_documented": true,
+    "no_machine_paths_or_key_patterns_in_excel": true,
+    "xlsx_sha256": "e09ff616298d04e16f244408fa8aaf6909be1d1d9b076b2de7fdc05d6de6ad16",
+    "browser_download_section_check": "passed",
+    "http_downloads": [
+      {
+        "path": "downloads/officer-database.xlsx",
+        "status": 200,
+        "matches_published_file": true
+      },
+      {
+        "path": "downloads/excel-review.md",
+        "status": 200,
+        "matches_published_file": true
+      },
+      {
+        "path": "downloads/excel-audit.json",
+        "status": 200,
+        "matches_published_file": true
+      },
+      {
+        "path": "downloads/excel-export-validation.json",
+        "status": 200,
+        "matches_published_file": true
+      }
+    ]
+  }
+}

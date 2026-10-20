@@ -1,0 +1,136 @@
+{
+  "generated": "2026-10-20",
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 57,
+      "sha256": "684803504ebbb7d4bf1cbe5b1e0cc966d2b51bad202e17cc61c1a45530ce64d2"
+    },
+    {
+      "path": "CONTENT_SCOPE.json",
+      "bytes": 2426,
+      "sha256": "1fc93c02727d362e090c70bae6a74ccd73ccbd68ea922ec059d724f6885cec80"
+    },
+    {
+      "path": "docs/.nojekyll",
+      "bytes": 29,
+      "sha256": "88aeeeeea4c15039c809887a754e3edf6f65573c70d1e4a807442bdf1a72c0b0"
+    },
+    {
+      "path": "docs/downloads/excel-audit.json",
+      "bytes": 7221,
+      "sha256": "f04483ce0333588eaf6ddab7df5d12dff33c39ce0a15cb81f58f689a4bda05a3"
+    },
+    {
+      "path": "docs/downloads/excel-export-validation.json",
+      "bytes": 6349,
+      "sha256": "732385417ab5761d4e3a5f73d18e5332cac446ee6f6821bac9e0e84d64a99899"
+    },
+    {
+      "path": "docs/downloads/excel-review.md",
+      "bytes": 2891,
+      "sha256": "49cf5b96465cb5e7d3371934c25c7431ca56fc9173f4f7cd58dff3f5029c2295"
+    },
+    {
+      "path": "docs/downloads/final_completion_report.json",
+      "bytes": 1358,
+      "sha256": "94d057e9ed942fe3644d50f2b76e64eee17327730ceeebf8e5ace0708d95991b"
+    },
+    {
+      "path": "docs/downloads/final_validation_report.json",
+      "bytes": 2054,
+      "sha256": "ea7b863ccf99726059e852e76faaa5ac483d67e10aa367bde07a1bf8a01d8705"
+    },
+    {
+      "path": "docs/downloads/network-data.zip",
+      "bytes": 2081609,
+      "sha256": "1d8316f690e63c2bbe062343abf32400fd7d163132fb31c50ab1224a6c430347"
+    },
+    {
+      "path": "docs/downloads/network_summary.json",
+      "bytes": 923,
+      "sha256": "ae2d548ecadf377a11282678d5a6fabf4181b370865681dd8d247454fbdf1c22"
+    },
+    {
+      "path": "docs/downloads/officer-database.xlsx",
+      "bytes": 10217560,
+      "sha256": "e09ff616298d04e16f244408fa8aaf6909be1d1d9b076b2de7fdc05d6de6ad16"
+    },
+    {
+      "path": "docs/downloads/officer-database.xlsx.sha256",
+      "bytes": 89,
+      "sha256": "e0366cf5b4b0256094539e9ae062e0702e853b39d0c189571a41dcb0061c386d"
+    },
+    {
+      "path": "docs/downloads/project-description.md",
+      "bytes": 9544,
+      "sha256": "e6e8b5c7b2e637e1c09b33cbe26e723c6b66f2cbb953e95bcfe6be10d6c9e066"
+    },
+    {
+      "path": "docs/downloads/publication-validation.json",
+      "bytes": 4241,
+      "sha256": "8d1baac191faad91b6920bedd997a6f1aed556cce5da99a2b3936795cb974daa"
+    },
+    {
+      "path": "docs/downloads/README.md",
+      "bytes": 422,
+      "sha256": "b0215be4e290863e71d6307fbe39dfe1f4d5a66e2787b43c34ba86be44354b9a"
+    },
+    {
+      "path": "docs/figures/congress_18.svg",
+      "bytes": 545088,
+      "sha256": "a12b0c142c4d8718398fc9b2d335aced979165de1fbe3d8b2570c53a1d4dfac1"
+    },
+    {
+      "path": "docs/figures/excel-downloads-preview.jpg",
+      "bytes": 78682,
+      "sha256": "13232612d0376985f3556b5f22441eb5721a96e0543c090ecda95ffb2ffa3118"
+    },
+    {
+      "path": "docs/figures/project-preview.jpg",
+      "bytes": 63143,
+      "sha256": "2644963e7fc4886616c6eeadaf9c445301bed6dab01a7de3bae5a5a26278cc9d"
+    },
+    {
+      "path": "docs/figures/README.md",
+      "bytes": 209,
+      "sha256": "800d1de9abaea14e9cddc54fcb5e41fe5bf5ba34d67c56db28b1abdd5a5cd997"
+    },
+    {
+      "path": "docs/index.html",
+      "bytes": 11197,
+      "sha256": "a596409f998614c99d58c206e70d33a735263c6caa9392845e2f3486558dc548"
+    },
+    {
+      "path": "docs/network.html",
+      "bytes": 8182822,
+      "sha256": "edfc81da2acc3c7d95ca690a9840cb929aef6aa756659cc1d3b0143a6a4482d7"
+    },
+    {
+      "path": "docs/README.md",
+      "bytes": 239,
+      "sha256": "b309d01bfe9f33290dee3bac4f271ae8e31dc06d1c9b367829897bc529860425"
+    },
+    {
+      "path": "PUBLICATION_VALIDATION.json",
+      "bytes": 4241,
+      "sha256": "8d1baac191faad91b6920bedd997a6f1aed556cce5da99a2b3936795cb974daa"
+    },
+    {
+      "path": "README.md",
+      "bytes": 9544,
+      "sha256": "e6e8b5c7b2e637e1c09b33cbe26e723c6b66f2cbb953e95bcfe6be10d6c9e066"
+    },
+    {
+      "path": "上传步骤.md",
+      "bytes": 365,
+      "sha256": "59278ba474e4f4b0056f6b05ff9f1c68b7478f8f4263fdfe171807378e174a3b"
+    },
+    {
+      "path": "项目说明.md",
+      "bytes": 9544,
+      "sha256": "e6e8b5c7b2e637e1c09b33cbe26e723c6b66f2cbb953e95bcfe6be10d6c9e066"
+    }
+  ],
+  "note": "Manifest files excluded from own checksum list."
+}
